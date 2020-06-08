@@ -27,4 +27,5 @@ npm install
 Once the steps are completed and the npm packages have been installed continue with:
 
 node app.js
+
 Now continue with terminal prompts and you are finished.
